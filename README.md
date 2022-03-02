@@ -1,5 +1,6 @@
-# Gigabyte-Z490-Vision-D_-_OpenCore_EFI
- OpenCore EFI for the Gigabyte Z490 Vision D Motherboard
+# Gigabyte Z490 Vision D - OpenCore EFI
+
+OpenCore EFI files for the Gigabyte Z490 Vision D Motherboard to boot macOS
 
 ## DISCLAIMER
 
